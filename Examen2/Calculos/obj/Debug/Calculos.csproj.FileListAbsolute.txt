@@ -1,0 +1,8 @@
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\bin\Debug\Calculos.exe
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\bin\Debug\Calculos.pdb
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\bin\Debug\ClassLibrary1.dll
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\obj\Debug\Calculos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\obj\Debug\Calculos.exe
+C:\Users\Lab3\Desktop\Evaluacion 2\Examen2\Calculos\obj\Debug\Calculos.pdb
