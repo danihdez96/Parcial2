@@ -11,7 +11,7 @@ namespace Calculos
     {
         static void Main(string[] args)
         {
-            /*Class1 obj1 = new Class1();
+            Class1 obj1 = new Class1();
             obj1.Operaciones1();
 
             Class1 obj2 = new Class1();
@@ -19,7 +19,7 @@ namespace Calculos
 
 
             Class1 obj3 = new Class1();
-            obj3.ImpNombres();*/
+            obj3.ImpNombres();
 
             Class1 obj4 = new Class1();
             obj4.ImpEdades();
